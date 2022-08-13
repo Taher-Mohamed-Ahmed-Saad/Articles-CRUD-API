@@ -1,6 +1,6 @@
 # Articles CRUD API
 
-##### This is a simple CRUD API built using Ruby on Rails
+#### This is a simple CRUD API built using Ruby on Rails
 
 ## API Endpoints
 
